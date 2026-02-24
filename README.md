@@ -1,5 +1,5 @@
 # GCAD-SDL
-Rotation Project Winter 2026
+Rotation Project in Mangan's Group (Winter 2026)
 
 
 References:
