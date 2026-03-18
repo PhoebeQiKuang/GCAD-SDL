@@ -1,6 +1,7 @@
 # GCAD-SDL
 Rotation Project in Mangan's Group (Winter 2026)
 
+This repository implements a self-calibrating computational pipeline that integrates the GCAD framework with an autonomous Active Learning loop. By dynamically deducing intrinsic biological parameters from phenotypic data, it automatically updates the foundational parts library to generate robust, physically accurate genetic circuit designs.
 
 References:
 
