@@ -6,10 +6,10 @@
     "inhibitor": true,
     "DsRed_inhibitor": true,
     "num_dict": {
-        "1": 50,
-        "2": 150
+        "1": 25,
+        "2": 75
     },
-    "n_gen": 100,
+    "n_gen": 50,
     "probability_crossover": 0.523549,
     "probability_mutation": 0.961384,
     "mutate_dose": true,

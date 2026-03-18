@@ -1,0 +1,5 @@
+parts.pkl:
+posterior parameters after initial full-run test. 
+Changed: Z6[0], Z6[1], I13[0]
+
+(Original Parameters are in parts_nominal_backup.pkl)

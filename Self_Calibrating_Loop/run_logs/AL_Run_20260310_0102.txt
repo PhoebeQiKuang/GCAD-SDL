@@ -1,0 +1,28 @@
+========================================
+ ACTIVE LEARNING LOOP - RUN SUMMARY
+========================================
+
+⏱️ Total Running Time: 2.55 minutes
+
+⚙️ CONFIGURATIONS:
+   Max Cycles:        3
+   Ensemble Size:     50
+   Prior Distribution:lognormal
+   Budget Circuits:   2
+   Budget Dosages:    2
+   Candidate Dosages: [0.2, 0.6, 1.0, 1.4, 1.8, 2.2, 2.6, 3.0, 3.4, 3.8]
+
+🎯 DISCOVERED VS TRUTH:
+   Part: I11
+      AL Found: [0.027711]
+      Truth:    [0.03125]
+
+   Part: I13
+      AL Found: [0.014761]
+      Truth:    [0.015]
+
+   Part: Z6
+      AL Found: [2.5245000e-02 5.4590264e+01 2.6477000e-02]
+      Truth:    [2.500e-02 4.350e+01 3.225e-02]
+
+(Product of SDL Test)
